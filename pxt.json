@@ -4,12 +4,17 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "motion": "*"
+        "motion": "*",
+        "mqtt": "*",
+        "ctrlx": "*"
     },
     "files": [
         "README.md",
         "main.blocks",
-        "main.ts"
+        "main.ts",
+        "mqtt-config.json",
+        "mqtt.ts",
+        "presskit.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -18,5 +23,5 @@
     "supportedTargets": [
         "tiger"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }

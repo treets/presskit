@@ -1,0 +1,9 @@
+{
+    "connections": [
+        {
+            "id": "mqttClient1",
+            "url": "test.mosquitto.org",
+            "port": 8081
+        }
+    ]
+}
