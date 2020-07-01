@@ -26,7 +26,8 @@
     "preferredEditor": "tsprj",
     "projectFilters": {
         "namespaces": {
-            "presskit": 1
+            "presskit": 1,
+            "mqtt": 1
         },
         "defaultState": 0
     }
