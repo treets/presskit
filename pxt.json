@@ -14,7 +14,11 @@
         "main.ts",
         "mqtt-config.json",
         "mqtt.ts",
-        "presskit.ts"
+        "presskit.ts",
+        "motion-config.json",
+        "pins-config.json",
+        "pins.ts",
+        "motion.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -23,7 +27,7 @@
     "supportedTargets": [
         "tiger"
     ],
-    "preferredEditor": "tsprj",
+    "preferredEditor": "blocksprj",
     "projectFilters": {
         "namespaces": {
             "presskit": 1,

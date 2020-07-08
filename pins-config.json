@@ -1,0 +1,8 @@
+{
+    "pins": [
+        {
+            "id": "pin1",
+            "address": "/dummy"
+        }
+    ]
+}
