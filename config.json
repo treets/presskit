@@ -1,0 +1,20 @@
+{
+    "fields": [
+        {
+            "name": "fieldbusId",
+            "type": "number"
+        },
+        {
+            "name": "lookupTest",
+            "type": "number",
+            "lookup": {
+                "fetch": "rest.get('https://httpbin.org/get').origin.split('.')",
+                "transform": "parseInt(arguments[0])"
+            }
+        }
+    ],
+    "default": {
+        "fieldbusId": 123,
+        "lookupTest": 456
+    }
+}

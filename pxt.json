@@ -18,7 +18,9 @@
         "motion-config.json",
         "pins-config.json",
         "pins.ts",
-        "motion.ts"
+        "motion.ts",
+        "this-config.json",
+        "config.json"
     ],
     "testFiles": [
         "test.ts"
