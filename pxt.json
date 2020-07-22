@@ -20,11 +20,10 @@
         "pins.ts",
         "motion.ts",
         "this-config.json",
-        "config.json"
+        "config.json",
+        "initialize.ts"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [],
     "public": true,
     "supportedTargets": [
         "tiger"
