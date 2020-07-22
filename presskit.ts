@@ -3,7 +3,7 @@ namespace presskit {
     //% velocity.defl=100 acceleration.defl=100
     //% inlineInputMode=inline
     export function initialPosition(velocity: number, acceleration: number, position: number, overload: number): void {
-        console.log('presskit.initialPositionnnn')
+        console.log('presskit.initialPosition')
         motion.axis1.move(MoveType.ABSOLUTE, position, velocity, acceleration)
     }
 }

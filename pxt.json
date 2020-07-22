@@ -6,7 +6,7 @@
         "core": "*",
         "motion": "*",
         "mqtt": "*",
-        "ctrlx": "*"
+        "motionsim": "*"
     },
     "files": [
         "README.md",
@@ -28,7 +28,7 @@
     "supportedTargets": [
         "tiger"
     ],
-    "preferredEditor": "blocksprj",
+    "preferredEditor": "tsprj",
     "projectFilters": {
         "namespaces": {
             "presskit": 1,
