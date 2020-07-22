@@ -6,7 +6,7 @@
         "core": "*",
         "motion": "*",
         "mqtt": "*",
-        "ctrlx": "*"
+        "motionsim": "*"
     },
     "files": [
         "README.md",
