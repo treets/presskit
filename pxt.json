@@ -28,7 +28,7 @@
     "supportedTargets": [
         "tiger"
     ],
-    "preferredEditor": "blocksprj",
+    "preferredEditor": "tsprj",
     "projectFilters": {
         "namespaces": {
             "presskit": 1,
