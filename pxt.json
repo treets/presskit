@@ -11,6 +11,7 @@
     "files": [
         "README.md",
         "main.blocks",
+        "constants.ts",
         "main.ts",
         "mqtt-config.json",
         "mqtt.ts",
