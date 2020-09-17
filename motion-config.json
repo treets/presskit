@@ -11,6 +11,24 @@
                 "yr": 0,
                 "zr": 0
             },
+            "limits": {
+                "position": {
+                    "min": -1000,
+                    "max": 1000
+                },
+                "velocity": {
+                    "min": -1000,
+                    "max": 1000
+                },
+                "acceleration": {
+                    "min": -2000,
+                    "max": 2000
+                },
+                "torque": {
+                    "min": 0,
+                    "max": 100
+                }
+            },
             "parent": ""
         }
     ],
