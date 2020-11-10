@@ -12,7 +12,7 @@
         "README.md",
         "main.blocks",
         "constants.ts",
-        "lib.ts",
+        "main.ts",
         "mqtt-config.json",
         "mqtt.ts",
         "presskit.ts",
